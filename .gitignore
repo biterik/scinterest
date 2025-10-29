@@ -1,0 +1,5 @@
+TOOLS/GET-REF/*.json
+__pycache__/
+*.pyc
+.cache/
+.DS_Store
