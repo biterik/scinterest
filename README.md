@@ -1,6 +1,2 @@
 # scinterest
-Tools and resources for scientific interest and bibliometrics.
-
-## TOOLS/GET-REF
-Publication retrieval and analysis tools for Scopus API.
-See [TOOLS/GET-REF/README.md](TOOLS/GET-REF/README.md) for documentation.
+Modular framework for building and comparing Research Interest Fingerprints (RIF) — reusable semantic profiles that power literature searches, collaboration discovery, and research landscape analysis.
